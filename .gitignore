@@ -153,3 +153,5 @@ Thumbs.db
 
 # Competitive Programming
 .cph/
+
+.gradio/
